@@ -905,7 +905,12 @@ footer{
         margin-left: 0;
     }
     #project1 {
-        background-image: url(./images/userAsset/project1-image.png);
+        width: 100%;
+        height: 250px;
+        background-size: cover;
+        background-repeat: round;
+    }
+     #project2 {
         width: 100%;
         height: 250px;
         background-size: cover;
