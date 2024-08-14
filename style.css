@@ -326,7 +326,6 @@ a{
 }
 .aboutme-heading{
     font-size: 50px;
-    /* font-style: bold; */
     color: var(--bgOrange);
     line-height: 50px;
 }
